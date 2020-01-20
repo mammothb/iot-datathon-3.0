@@ -1,0 +1,12 @@
+[
+    { "label" : "data"        , "wordname" : "data"        },
+    { "label" : "debug"       , "wordname" : "test-net"   },
+    { "label" : "train"       , "wordname" : "train-net"   },
+    { "label" : "status"      , "wordname" : "status"      },
+    { "label" : "losses"      , "wordname" : "losses"      },
+    { "label" : "evaluate"    , "wordname" : "evaluate"    },
+    { "label" : "eval-status" , "wordname" : "eval-status" },
+    { "label" : "predictions" , "wordname" : "plot-predictions" },
+    { "label" : "save" , "wordname" : "save-predictions" },
+    { "label" : "deploy" , "wordname" : "deploy-model" }
+]
